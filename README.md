@@ -5,6 +5,18 @@ A partir del problema de leetcode el cual trata sobre leer palabras y separarlas
 
 - Enlace: https://leetcode.com/problems/sorting-the-sentence/
 
+## Pantallazo solución
+
+![alt text](https://github.com/alejandrojimenez9/sorting-the-sentence/blob/main/leetcode.png)
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/120px-Apache_NetBeans_Logo.svg.png)
+
+En el IDE Netbeans se desarrolló la aplicación que lee los casos de prueba para utilizarlos en leetcode.
+
+## Pantallazo aplicación
+
+
+
 ## Autor
 
 - [@alejandrojimenez9](https://www.github.com/alejandrojimenez9)
