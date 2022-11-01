@@ -19,7 +19,7 @@ En el IDE Netbeans se desarrolló la aplicación que lee los casos de prueba par
 
 ![alt text](https://raw.githubusercontent.com/alejandrojimenez9/sorting-the-sentence/main/casos%20de%20prueba.png)
 
-
+![alt text](https://github.com/alejandrojimenez9/sorting-the-sentence/blob/main/sortsentence.png)
 
 ## Autor
 
