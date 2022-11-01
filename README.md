@@ -13,11 +13,13 @@ A partir del problema de leetcode el cual trata sobre leer palabras y separarlas
 
 En el IDE Netbeans se desarrolló la aplicación que lee los casos de prueba para utilizarlos en leetcode y la aplicación con main y lectura de datos, de manera que se prueba la solución independientemente de la plataforma.
 
-## Pantallazo aplicación
+## Pantallazo aplicaciones
 
-![alt text](
+![alt text](https://github.com/alejandrojimenez9/sorting-the-sentence/blob/main/Codigo%20caso%20de%20prueba.png)
 
 ![alt text](https://raw.githubusercontent.com/alejandrojimenez9/sorting-the-sentence/main/casos%20de%20prueba.png)
+
+
 
 ## Autor
 
